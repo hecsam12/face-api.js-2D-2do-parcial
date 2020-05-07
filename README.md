@@ -2,8 +2,19 @@
 
 Face-api.js es una libreria usada para el reconocimiento de rostos en imagenes o videos, esta libreria se implementa puede ser implementada en una aplicación web o móvil.
 
-A continuación se muestra un ejemplo del uso de face-api.js
+Se agregaron filtros 2D, en ayuda con los landmarks para el posicionamiento de las imagenes en formato SVG, y a continuación se muestran algunos. 
 
+![Filtro_1](https://user-images.githubusercontent.com/36305215/81250987-829c9400-8fdf-11ea-900f-077dc13f6e60.jpg)
+
+![Filtro_2](https://user-images.githubusercontent.com/36305215/81251386-63eacd00-8fe0-11ea-8a25-911762f9283f.jpg)
+
+![Filtro_5](https://user-images.githubusercontent.com/36305215/81251417-736a1600-8fe0-11ea-94ce-2f18f5536880.jpg)
+
+![Filtro_11](https://user-images.githubusercontent.com/36305215/81251438-811f9b80-8fe0-11ea-82e3-851cf1a37864.jpg)
+
+![Filtro_13](https://user-images.githubusercontent.com/36305215/81251450-8bda3080-8fe0-11ea-8b19-5380cc3bcbd2.jpg)
+
+![Filtro_15](https://user-images.githubusercontent.com/36305215/81251468-972d5c00-8fe0-11ea-9fa5-b253f97d6659.jpg)
 
 # Teconolgias usadas
 
