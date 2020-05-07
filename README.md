@@ -23,6 +23,20 @@ Se agregaron filtros 2D, en ayuda con los landmarks para el posicionamiento de l
 3. [React-redux](https://www.youtube.com/watch?v=HhtqSwUgP1U&t=1875s)
 4. [Programacion funcional](https://medium.com/laboratoria-developers/introducci%C3%B3n-a-la-programaci%C3%B3n-funcional-en-javascript-parte-1-e0b1d0b2142e)
 
+# ScrollBar
+
+Para la implementación de los filtros en botones diferentes, se utilizo un ScrollBar, este componente se realizo con CSS implementando el siguiente codigo:
+
+.scroll {
+    height: 50px;
+    width: 500px;
+    background-color: gray;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+Este se importa en el index principal de FacePage, y se le incorporan etiquetas <button></button>, aplicando a cada uno los diferentes filtros con sus valores.
 
 # Versiones
 
